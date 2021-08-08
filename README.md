@@ -2,9 +2,8 @@
 Solana team claims the blockchain has a throughput of 50k transactions per second - zz-group wants to test this.
 
 
-##who and why
-
-Several people from Ukraine participate in TdS and maintain nodes in the solana test cluster.
+## who and why
+Several people from Ukraine have united in the ZZ-GROUP team, participate in TdS and support the nodes in the solana test cluster.
 
 In August 2021, it became necessary to check the declared network characteristics in terms of throughput of 50k transactions per second and how this affects the load of the validator node.
 
