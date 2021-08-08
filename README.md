@@ -11,3 +11,7 @@ Testing stages:
 - create more than 2 million addresses and send test 1 SOL to them
 - get 10 million SOL for testing
 - transfer transactions between wallets: one era of solana is ~ 3 days. 86400 * 3 = 259k seconds. 50k * 259k = 12,960,000,000tx in 3 days. If you send 0.000001 SOL + commission 0.000005 SOL = ~ 100k sol is required for the test
+
+
+## Address for testnet SOL in TdS
+7sh7JZ3y3ihH1MB6YRpdUhm2Z7gQDwxcNahgyuwAfdX6
