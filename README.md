@@ -20,5 +20,7 @@ the declared throughput was 2000 transactions per second. This throughput was en
 
 # Contacts
 Telefram: https://t.me/solana_informer
+
 Telegram Group: https://t.me/solana_informer_group
-mail: contact@zz-group.infocoin.pro
+
+mail: github-contact@zz-group.infocoin.pro
